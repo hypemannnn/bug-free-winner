@@ -1,0 +1,11 @@
+Model Information:
+* title:	Zombie bust
+* source:	https://sketchfab.com/3d-models/zombie-bust-3385b9dba37d4ac7b8cbf796c68cc021
+* author:	fpernudo (https://sketchfab.com/fpernudo)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Zombie bust" (https://sketchfab.com/3d-models/zombie-bust-3385b9dba37d4ac7b8cbf796c68cc021) by fpernudo (https://sketchfab.com/fpernudo) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)

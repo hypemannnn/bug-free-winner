@@ -1,0 +1,11 @@
+Model Information:
+* title:	Zombie Walk Zealot
+* source:	https://sketchfab.com/3d-models/zombie-walk-zealot-8f0a46c9666c407b91b73244db74fb2c
+* author:	Elisey (https://sketchfab.com/dwelfster)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Zombie Walk Zealot" (https://sketchfab.com/3d-models/zombie-walk-zealot-8f0a46c9666c407b91b73244db74fb2c) by Elisey (https://sketchfab.com/dwelfster) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
